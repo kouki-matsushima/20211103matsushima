@@ -1,0 +1,73 @@
+.page-top {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  font-size: 30px;
+  margin: 15px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.page-top-right {
+  width: 480px;
+  display: flex;
+  justify-content: space-between;
+}
+.home {
+  font-weight: bold;
+  display: inline-block;
+  width: 100px;
+  padding: 10px;
+  margin: auto;
+  text-decoration: none;
+}
+.naiyou {
+  font-weight: bold;
+  display: inline-block;
+  width: 100px;
+  padding: 10px;
+  margin: auto;
+  text-decoration: none;
+}
+.saiyou {
+  font-weight: bold;
+  display: inline-block;
+  width: 100px;
+  padding: 10px;
+  margin: auto;
+  text-decoration: none;
+}
+.ques {
+  font-weight: bold;
+  display: inline-block;
+  width: 100px;
+  padding: 10px;
+  margin: auto;
+  text-decoration: none;
+}
+
+.page-center {
+  position: relative;
+  margin-top: 100px;
+}
+
+.img {
+  width: 55%;
+  height: 400px;
+  position: absolute;
+  left: 45%;
+  z-index: 10;
+}
+.text {
+  font-size: 50px;
+  position: absolute;
+  top: 200px;
+}
+.box {
+  width: 70%;
+  height: 200px;
+  background: rgb(25, 18, 116);
+  position: absolute;
+  top: 320px;
+  z-index: 5;
+}
