@@ -9,43 +9,13 @@
   text-decoration: none;
 }
 .page-top-right {
+  font-weight: bold;
   width: 480px;
+  padding: 10px;
+  margin: auto 0;
   display: flex;
   justify-content: space-between;
 }
-.home {
-  font-weight: bold;
-  display: inline-block;
-  width: 100px;
-  padding: 10px;
-  margin: auto;
-  text-decoration: none;
-}
-.naiyou {
-  font-weight: bold;
-  display: inline-block;
-  width: 100px;
-  padding: 10px;
-  margin: auto;
-  text-decoration: none;
-}
-.saiyou {
-  font-weight: bold;
-  display: inline-block;
-  width: 100px;
-  padding: 10px;
-  margin: auto;
-  text-decoration: none;
-}
-.ques {
-  font-weight: bold;
-  display: inline-block;
-  width: 100px;
-  padding: 10px;
-  margin: auto;
-  text-decoration: none;
-}
-
 .page-center {
   position: relative;
   margin-top: 100px;
